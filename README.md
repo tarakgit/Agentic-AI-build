@@ -18,7 +18,8 @@ If relevant, the bot calculates a quote. Also It gathers and logs lead info if t
   ![Backend Transcripts](./Tool%20Validation%20On%20Agentive%20AI%20framework.png)
 
 - **Relevance AI**  
-  Developed dynamic tools like the “Spark Quote” module based on business logic and integrated them into the agent to calculate real-time pricing.
+  Developed dynamic tools like the “Airtable Lead Data Collector” and “Sparkly Cost Estimator”, based on custom business logic, and integrated them into the AI agent to 
+  calculate real-time pricing and capture customer lead data.
   ![Tool Build](./Tools%20on%20Relavance%20AI.png)
   
 - **Knowledge Base**  
