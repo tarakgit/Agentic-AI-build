@@ -14,7 +14,7 @@ If relevant, the bot calculates a quote. Also It gathers and logs lead info if t
 🧩 Tech Stack & Tools Used
 - **Agentive AI**  
   Built and deployed the WhatsApp chatbot agent to manage customer conversations, simulate human-like dialogue, and maintain context across sessions.
-
+[!c](WhatsappagentToolBuildAgentiveAI.png)
 - **Relevance AI**  
   Developed dynamic tools like the “Spark Quote” module based on business logic and integrated them into the agent to calculate real-time pricing.
 
