@@ -1,5 +1,6 @@
-# Agentic-AI-build (GUI based Framework)
-🤖 WhatsApp-Based AI Customer Support & Lead Generation Agent
+# Agentic-AI-builds (GUI based Framework)
+
+# Project 1. 🤖 WhatsApp-Based AI Customer Support & Lead Generation Agent
 Project Summary:
 Developed and deployed a smart AI assistant on WhatsApp using Agentive to serve as a conversational lead generation and support agent for Cleaning Business Service. The system engages prospects in real time, answers their service-related queries, generates pricing quotes, and captures lead information for follow-up and appointment booking.
 
