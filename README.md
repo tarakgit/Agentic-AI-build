@@ -109,8 +109,10 @@ Instead of:
 ### 🧠 Visual Flow (Example)
 
 > ![n8n Lead Flow](./N8N_AIWorkflowforLeadIdentification.png)
-> ![Agent Tool Map](LeadQaulification_AIWorkflow.png)
+> ![Agent Tool Map](./Formn8n.png)
+> ![Agent Tool Map](./Workflow_run.png)
 > ![Agent Tool Map](./Lead_Classifier_AIWorkflow.png)
+> ![Agent Tool Map](./Qaulfied_mail_Notification.png)
 
 ---
 
