@@ -10,11 +10,12 @@ A prospect finds the WhatsApp number (on a website, QR code, or ad) and sends a 
 The AI responds with personalized info pulled from company KB documents.
 
 If relevant, the bot calculates a quote. Also It gathers and logs lead info if the user is interested.
+![Demo](./chat-demo.gif)
 
 🧩 Tech Stack & Tools Used
 - **Agentive AI**  
   Built and deployed the WhatsApp chatbot agent to manage customer conversations, simulate human-like dialogue, and maintain context across sessions.
-[!c](WhatsappagentToolBuildAgentiveAI.png)
+
 - **Relevance AI**  
   Developed dynamic tools like the “Spark Quote” module based on business logic and integrated them into the agent to calculate real-time pricing.
 
@@ -26,6 +27,7 @@ If relevant, the bot calculates a quote. Also It gathers and logs lead info if t
 
 - **Airtable**  
   Used as a lightweight CRM backend to store customer data including contact info, service requirements, and quote history.
+  ![Airtable CRM Example](./Relavance%20AI%20Airtable%20CRM%20table.png)
 
 - **LLM**
   powered by LLMs like OpenAI or DeepSeek.
